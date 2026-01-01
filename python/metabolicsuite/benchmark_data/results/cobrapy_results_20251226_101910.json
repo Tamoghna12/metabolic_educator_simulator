@@ -1,0 +1,2002 @@
+[
+  {
+    "model_id": "e_coli_core",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "e_coli_core",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAB_RBC_283",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAB_RBC_283",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Amastigote",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Amastigote",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Epimastigote",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Epimastigote",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Trypomastigote",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIS312_Trypomastigote",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIT341",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iIT341",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iLJ478",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iLJ478",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF692",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF692",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSB619",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSB619",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNF517",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNF517",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iHN637",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iHN637",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJB785",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJB785",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN678",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN678",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "None (infeasible)."
+  },
+  {
+    "model_id": "iAT_PLT_636",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAT_PLT_636",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCN718",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCN718",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNJ661",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNJ661",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN746",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN746",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pb448",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pb448",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pc455",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pc455",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJR904",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJR904",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pv461",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pv461",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pk459",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pk459",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pf480",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAM_Pf480",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEK1008",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEK1008",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCN900",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCN900",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYO844",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYO844",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iND750",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iND750",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF987",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF987",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYS854",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYS854",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iMM904",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iMM904",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iPC815",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iPC815",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iRC1080",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iRC1080",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYL1228",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYL1228",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF1260b",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAF1260b",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSDY_1059",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSDY_1059",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "STM_v1_0",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "STM_v1_0",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJO1366",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJO1366",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSbBS512_1146",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSbBS512_1146",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSBO_1134",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSBO_1134",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iS_1188",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iS_1188",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSFV_1184",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSFV_1184",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSF_1195",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSF_1195",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSFxv_1172",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSFxv_1172",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSSON_1240",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iSSON_1240",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECH74115_1262",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECH74115_1262",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iE2348C_1286",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iE2348C_1286",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iG2583_1286",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iG2583_1286",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECED1_1282",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECED1_1282",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSP_1301",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSP_1301",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC042_1314",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC042_1314",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECNA114_1301",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECNA114_1301",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECs_1301",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECs_1301",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECIAI39_1322",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECIAI39_1322",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iZ_1308",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iZ_1308",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUTI89_1310",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUTI89_1310",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "ic_1306",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "ic_1306",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1344_C",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1344_C",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iLF82_1304",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iLF82_1304",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECOK1_1307",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECOK1_1307",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECS88_1305",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECS88_1305",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECABU_c1320",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECABU_c1320",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAPECO1_1312",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iAPECO1_1312",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNRG857_1313",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iNRG857_1313",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUMN146_1321",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUMN146_1321",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECP_1309",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECP_1309",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1356_Bl21DE3",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1356_Bl21DE3",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iB21_1397",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iB21_1397",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iBWG_1329",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iBWG_1329",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECD_1391",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECD_1391",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECDH10B_1368",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECDH10B_1368",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSF_1327",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSF_1327",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcSMS35_1347",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcSMS35_1347",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECB_1328",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECB_1328",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECBD_1354",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECBD_1354",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcDH1_1363",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcDH1_1363",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcHS_1320",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcHS_1320",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECDH1ME8569_1439",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECDH1ME8569_1439",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1349_Crooks",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1349_Crooks",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC55989_1330",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC55989_1330",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iETEC_1333",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iETEC_1333",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1372_W3110",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1372_W3110",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECO103_1326",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECO103_1326",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iY75_1357",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iY75_1357",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcE24377_1341",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcE24377_1341",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1364_W",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1364_W",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECIAI1_1343",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECIAI1_1343",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcolC_1368",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEcolC_1368",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSE_1348",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECSE_1348",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUMNK88_1353",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iUMNK88_1353",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEKO11_1354",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEKO11_1354",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1368_DH5a",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iEC1368_DH5a",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECO26_1355",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECO26_1355",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECW_1372",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iECW_1372",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iWFL_1372",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iWFL_1372",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN1463",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iJN1463",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYS1720",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iYS1720",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iMM1415",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iMM1415",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "RECON1",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "RECON1",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCHOv1_DG44",
+    "method": "fba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  },
+  {
+    "model_id": "iCHOv1_DG44",
+    "method": "pfba",
+    "solver": "cobrapy-glpk",
+    "status": "error",
+    "objective_value": null,
+    "fluxes": null,
+    "solve_time_ms": 0,
+    "error": "Cannot convert numpy.ndarray to numpy.ndarray"
+  }
+]

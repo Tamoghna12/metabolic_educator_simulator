@@ -1,0 +1,758 @@
+[
+  {
+    "bigg_id": "e_coli_core",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 72,
+    "reaction_count": 95,
+    "gene_count": 137
+  },
+  {
+    "bigg_id": "iAB_RBC_283",
+    "organism": "Homo sapiens",
+    "metabolite_count": 342,
+    "reaction_count": 469,
+    "gene_count": 346
+  },
+  {
+    "bigg_id": "iAF1260",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 1668,
+    "reaction_count": 2382,
+    "gene_count": 1261
+  },
+  {
+    "bigg_id": "iAF1260b",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 1668,
+    "reaction_count": 2388,
+    "gene_count": 1261
+  },
+  {
+    "bigg_id": "iAF692",
+    "organism": "Methanosarcina barkeri str. Fusaro",
+    "metabolite_count": 628,
+    "reaction_count": 690,
+    "gene_count": 692
+  },
+  {
+    "bigg_id": "iAF987",
+    "organism": "Geobacter metallireducens GS-15",
+    "metabolite_count": 1109,
+    "reaction_count": 1285,
+    "gene_count": 987
+  },
+  {
+    "bigg_id": "iAM_Pb448",
+    "organism": "Plasmodium berghei",
+    "metabolite_count": 903,
+    "reaction_count": 1067,
+    "gene_count": 448
+  },
+  {
+    "bigg_id": "iAM_Pc455",
+    "organism": "Plasmodium cynomolgi strain B",
+    "metabolite_count": 907,
+    "reaction_count": 1074,
+    "gene_count": 455
+  },
+  {
+    "bigg_id": "iAM_Pf480",
+    "organism": "Plasmodium falciparum 3D7",
+    "metabolite_count": 909,
+    "reaction_count": 1083,
+    "gene_count": 480
+  },
+  {
+    "bigg_id": "iAM_Pk459",
+    "organism": "Plasmodium knowlesi strain H",
+    "metabolite_count": 909,
+    "reaction_count": 1079,
+    "gene_count": 459
+  },
+  {
+    "bigg_id": "iAM_Pv461",
+    "organism": "Plasmodium vivax Sal-1",
+    "metabolite_count": 909,
+    "reaction_count": 1078,
+    "gene_count": 461
+  },
+  {
+    "bigg_id": "iAPECO1_1312",
+    "organism": "Escherichia coli APEC O1",
+    "metabolite_count": 1942,
+    "reaction_count": 2735,
+    "gene_count": 1313
+  },
+  {
+    "bigg_id": "iAT_PLT_636",
+    "organism": "Homo sapiens",
+    "metabolite_count": 738,
+    "reaction_count": 1008,
+    "gene_count": 636
+  },
+  {
+    "bigg_id": "iB21_1397",
+    "organism": "Escherichia coli BL21(DE3)",
+    "metabolite_count": 1943,
+    "reaction_count": 2741,
+    "gene_count": 1337
+  },
+  {
+    "bigg_id": "iBWG_1329",
+    "organism": "Escherichia coli BW2952",
+    "metabolite_count": 1949,
+    "reaction_count": 2741,
+    "gene_count": 1329
+  },
+  {
+    "bigg_id": "ic_1306",
+    "organism": "Escherichia coli CFT073",
+    "metabolite_count": 1936,
+    "reaction_count": 2726,
+    "gene_count": 1307
+  },
+  {
+    "bigg_id": "iCHOv1",
+    "organism": "Cricetulus griseus",
+    "metabolite_count": 4456,
+    "reaction_count": 6663,
+    "gene_count": 1766
+  },
+  {
+    "bigg_id": "iCHOv1_DG44",
+    "organism": "Cricetulus griseus",
+    "metabolite_count": 2751,
+    "reaction_count": 3942,
+    "gene_count": 1184
+  },
+  {
+    "bigg_id": "iCN718",
+    "organism": "Acinetobacter baumannii AYE",
+    "metabolite_count": 888,
+    "reaction_count": 1015,
+    "gene_count": 709
+  },
+  {
+    "bigg_id": "iCN900",
+    "organism": "Clostridioides difficile 630",
+    "metabolite_count": 885,
+    "reaction_count": 1229,
+    "gene_count": 900
+  },
+  {
+    "bigg_id": "iE2348C_1286",
+    "organism": "Escherichia coli O127:H6 str. E2348/69",
+    "metabolite_count": 1919,
+    "reaction_count": 2703,
+    "gene_count": 1287
+  },
+  {
+    "bigg_id": "iEC042_1314",
+    "organism": "Escherichia coli 042",
+    "metabolite_count": 1926,
+    "reaction_count": 2714,
+    "gene_count": 1314
+  },
+  {
+    "bigg_id": "iEC1344_C",
+    "organism": "Escherichia coli C",
+    "metabolite_count": 1934,
+    "reaction_count": 2726,
+    "gene_count": 1344
+  },
+  {
+    "bigg_id": "iEC1349_Crooks",
+    "organism": "Escherichia coli ATCC 8739",
+    "metabolite_count": 1946,
+    "reaction_count": 2756,
+    "gene_count": 1349
+  },
+  {
+    "bigg_id": "iEC1356_Bl21DE3",
+    "organism": "Escherichia coli BL21(DE3)",
+    "metabolite_count": 1918,
+    "reaction_count": 2740,
+    "gene_count": 1356
+  },
+  {
+    "bigg_id": "iEC1364_W",
+    "organism": "Escherichia coli W",
+    "metabolite_count": 1927,
+    "reaction_count": 2764,
+    "gene_count": 1364
+  },
+  {
+    "bigg_id": "iEC1368_DH5a",
+    "organism": "Escherichia coli DH5[alpha]",
+    "metabolite_count": 1951,
+    "reaction_count": 2779,
+    "gene_count": 1368
+  },
+  {
+    "bigg_id": "iEC1372_W3110",
+    "organism": "Escherichia coli str. K-12 substr. W3110",
+    "metabolite_count": 1918,
+    "reaction_count": 2758,
+    "gene_count": 1372
+  },
+  {
+    "bigg_id": "iEC55989_1330",
+    "organism": "Escherichia coli 55989",
+    "metabolite_count": 1953,
+    "reaction_count": 2756,
+    "gene_count": 1330
+  },
+  {
+    "bigg_id": "iECABU_c1320",
+    "organism": "Escherichia coli ABU 83972",
+    "metabolite_count": 1942,
+    "reaction_count": 2731,
+    "gene_count": 1320
+  },
+  {
+    "bigg_id": "iECB_1328",
+    "organism": "Escherichia coli B str. REL606",
+    "metabolite_count": 1951,
+    "reaction_count": 2748,
+    "gene_count": 1329
+  },
+  {
+    "bigg_id": "iECBD_1354",
+    "organism": "Escherichia coli 'BL21-Gold(DE3)pLysS AG'",
+    "metabolite_count": 1952,
+    "reaction_count": 2748,
+    "gene_count": 1354
+  },
+  {
+    "bigg_id": "iECD_1391",
+    "organism": "Escherichia coli BL21(DE3)",
+    "metabolite_count": 1943,
+    "reaction_count": 2741,
+    "gene_count": 1333
+  },
+  {
+    "bigg_id": "iECDH10B_1368",
+    "organism": "Escherichia coli str. K-12 substr. DH10B",
+    "metabolite_count": 1947,
+    "reaction_count": 2742,
+    "gene_count": 1327
+  },
+  {
+    "bigg_id": "iEcDH1_1363",
+    "organism": "Escherichia coli DH1",
+    "metabolite_count": 1949,
+    "reaction_count": 2750,
+    "gene_count": 1363
+  },
+  {
+    "bigg_id": "iECDH1ME8569_1439",
+    "organism": "Escherichia coli DH1",
+    "metabolite_count": 1950,
+    "reaction_count": 2755,
+    "gene_count": 1439
+  },
+  {
+    "bigg_id": "iEcE24377_1341",
+    "organism": "Escherichia coli O139:H28 str. E24377A",
+    "metabolite_count": 1972,
+    "reaction_count": 2763,
+    "gene_count": 1341
+  },
+  {
+    "bigg_id": "iECED1_1282",
+    "organism": "Escherichia coli ED1a",
+    "metabolite_count": 1929,
+    "reaction_count": 2706,
+    "gene_count": 1279
+  },
+  {
+    "bigg_id": "iECH74115_1262",
+    "organism": "Escherichia coli O157:H7 str. EC4115",
+    "metabolite_count": 1918,
+    "reaction_count": 2694,
+    "gene_count": 1262
+  },
+  {
+    "bigg_id": "iEcHS_1320",
+    "organism": "Escherichia coli HS",
+    "metabolite_count": 1963,
+    "reaction_count": 2753,
+    "gene_count": 1321
+  },
+  {
+    "bigg_id": "iECIAI1_1343",
+    "organism": "Escherichia coli IAI1",
+    "metabolite_count": 1968,
+    "reaction_count": 2765,
+    "gene_count": 1343
+  },
+  {
+    "bigg_id": "iECIAI39_1322",
+    "organism": "Escherichia coli IAI39",
+    "metabolite_count": 1953,
+    "reaction_count": 2721,
+    "gene_count": 1321
+  },
+  {
+    "bigg_id": "iECNA114_1301",
+    "organism": "Escherichia coli NA114",
+    "metabolite_count": 1927,
+    "reaction_count": 2718,
+    "gene_count": 1301
+  },
+  {
+    "bigg_id": "iECO103_1326",
+    "organism": "Escherichia coli O103:H2 str. 12009",
+    "metabolite_count": 1958,
+    "reaction_count": 2758,
+    "gene_count": 1327
+  },
+  {
+    "bigg_id": "iECO111_1330",
+    "organism": "Escherichia coli O111:H- str. 11128",
+    "metabolite_count": 1959,
+    "reaction_count": 2760,
+    "gene_count": 1328
+  },
+  {
+    "bigg_id": "iECO26_1355",
+    "organism": "Escherichia coli O26:H11 str. 11368",
+    "metabolite_count": 1965,
+    "reaction_count": 2780,
+    "gene_count": 1355
+  },
+  {
+    "bigg_id": "iECOK1_1307",
+    "organism": "Escherichia coli IHE3034",
+    "metabolite_count": 1941,
+    "reaction_count": 2729,
+    "gene_count": 1304
+  },
+  {
+    "bigg_id": "iEcolC_1368",
+    "organism": "Escherichia coli ATCC 8739",
+    "metabolite_count": 1969,
+    "reaction_count": 2768,
+    "gene_count": 1368
+  },
+  {
+    "bigg_id": "iECP_1309",
+    "organism": "Escherichia coli 536",
+    "metabolite_count": 1941,
+    "reaction_count": 2739,
+    "gene_count": 1309
+  },
+  {
+    "bigg_id": "iECs_1301",
+    "organism": "Escherichia coli O157:H7 str. Sakai",
+    "metabolite_count": 1923,
+    "reaction_count": 2720,
+    "gene_count": 1301
+  },
+  {
+    "bigg_id": "iECS88_1305",
+    "organism": "Escherichia coli S88",
+    "metabolite_count": 1942,
+    "reaction_count": 2729,
+    "gene_count": 1305
+  },
+  {
+    "bigg_id": "iECSE_1348",
+    "organism": "Escherichia coli SE11",
+    "metabolite_count": 1957,
+    "reaction_count": 2768,
+    "gene_count": 1348
+  },
+  {
+    "bigg_id": "iECSF_1327",
+    "organism": "Escherichia coli SE15",
+    "metabolite_count": 1951,
+    "reaction_count": 2742,
+    "gene_count": 1327
+  },
+  {
+    "bigg_id": "iEcSMS35_1347",
+    "organism": "Escherichia coli SMS-3-5",
+    "metabolite_count": 1947,
+    "reaction_count": 2746,
+    "gene_count": 1347
+  },
+  {
+    "bigg_id": "iECSP_1301",
+    "organism": "Escherichia coli O157:H7 str. TW14359",
+    "metabolite_count": 1920,
+    "reaction_count": 2712,
+    "gene_count": 1299
+  },
+  {
+    "bigg_id": "iECUMN_1333",
+    "organism": "Escherichia coli UMN026",
+    "metabolite_count": 1935,
+    "reaction_count": 2740,
+    "gene_count": 1332
+  },
+  {
+    "bigg_id": "iECW_1372",
+    "organism": "Escherichia coli W",
+    "metabolite_count": 1973,
+    "reaction_count": 2782,
+    "gene_count": 1372
+  },
+  {
+    "bigg_id": "iEK1008",
+    "organism": "Mycobacterium tuberculosis H37Rv",
+    "metabolite_count": 998,
+    "reaction_count": 1226,
+    "gene_count": 1008
+  },
+  {
+    "bigg_id": "iEKO11_1354",
+    "organism": "Escherichia coli KO11FL",
+    "metabolite_count": 1972,
+    "reaction_count": 2778,
+    "gene_count": 1354
+  },
+  {
+    "bigg_id": "iETEC_1333",
+    "organism": "Escherichia coli ETEC H10407",
+    "metabolite_count": 1962,
+    "reaction_count": 2756,
+    "gene_count": 1333
+  },
+  {
+    "bigg_id": "iG2583_1286",
+    "organism": "Escherichia coli O55:H7 str. CB9615",
+    "metabolite_count": 1919,
+    "reaction_count": 2704,
+    "gene_count": 1283
+  },
+  {
+    "bigg_id": "iHN637",
+    "organism": "Clostridium ljungdahlii DSM 13528",
+    "metabolite_count": 698,
+    "reaction_count": 785,
+    "gene_count": 637
+  },
+  {
+    "bigg_id": "iIS312",
+    "organism": "Trypanosoma cruzi Dm28c",
+    "metabolite_count": 606,
+    "reaction_count": 519,
+    "gene_count": 312
+  },
+  {
+    "bigg_id": "iIS312_Amastigote",
+    "organism": "Trypanosoma cruzi Dm28c",
+    "metabolite_count": 606,
+    "reaction_count": 519,
+    "gene_count": 312
+  },
+  {
+    "bigg_id": "iIS312_Epimastigote",
+    "organism": "Trypanosoma cruzi Dm28c",
+    "metabolite_count": 606,
+    "reaction_count": 519,
+    "gene_count": 312
+  },
+  {
+    "bigg_id": "iIS312_Trypomastigote",
+    "organism": "Trypanosoma cruzi Dm28c",
+    "metabolite_count": 606,
+    "reaction_count": 520,
+    "gene_count": 312
+  },
+  {
+    "bigg_id": "iIT341",
+    "organism": "Helicobacter pylori 26695",
+    "metabolite_count": 485,
+    "reaction_count": 554,
+    "gene_count": 339
+  },
+  {
+    "bigg_id": "iJB785",
+    "organism": "Synechococcus elongatus PCC 7942",
+    "metabolite_count": 768,
+    "reaction_count": 849,
+    "gene_count": 785
+  },
+  {
+    "bigg_id": "iJN1463",
+    "organism": "Pseudomonas putida KT2440",
+    "metabolite_count": 2153,
+    "reaction_count": 2927,
+    "gene_count": 1462
+  },
+  {
+    "bigg_id": "iJN678",
+    "organism": "Synechocystis sp. PCC 6803",
+    "metabolite_count": 795,
+    "reaction_count": 863,
+    "gene_count": 622
+  },
+  {
+    "bigg_id": "iJN746",
+    "organism": "Pseudomonas putida KT2440",
+    "metabolite_count": 907,
+    "reaction_count": 1054,
+    "gene_count": 746
+  },
+  {
+    "bigg_id": "iJO1366",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 1805,
+    "reaction_count": 2583,
+    "gene_count": 1367
+  },
+  {
+    "bigg_id": "iJR904",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 761,
+    "reaction_count": 1075,
+    "gene_count": 904
+  },
+  {
+    "bigg_id": "iLB1027_lipid",
+    "organism": "Phaeodactylum tricornutum CCAP 1055/1",
+    "metabolite_count": 2172,
+    "reaction_count": 4456,
+    "gene_count": 1027
+  },
+  {
+    "bigg_id": "iLF82_1304",
+    "organism": "Escherichia coli LF82",
+    "metabolite_count": 1938,
+    "reaction_count": 2726,
+    "gene_count": 1302
+  },
+  {
+    "bigg_id": "iLJ478",
+    "organism": "Thermotoga maritima MSB8",
+    "metabolite_count": 570,
+    "reaction_count": 652,
+    "gene_count": 482
+  },
+  {
+    "bigg_id": "iML1515",
+    "organism": "Escherichia coli str. K-12 substr. MG1655",
+    "metabolite_count": 1877,
+    "reaction_count": 2712,
+    "gene_count": 1516
+  },
+  {
+    "bigg_id": "iMM1415",
+    "organism": "Mus musculus",
+    "metabolite_count": 2775,
+    "reaction_count": 3726,
+    "gene_count": 1375
+  },
+  {
+    "bigg_id": "iMM904",
+    "organism": "Saccharomyces cerevisiae S288C",
+    "metabolite_count": 1226,
+    "reaction_count": 1577,
+    "gene_count": 905
+  },
+  {
+    "bigg_id": "iND750",
+    "organism": "Saccharomyces cerevisiae S288C",
+    "metabolite_count": 1059,
+    "reaction_count": 1266,
+    "gene_count": 750
+  },
+  {
+    "bigg_id": "iNF517",
+    "organism": "Lactococcus lactis subsp. cremoris MG1363",
+    "metabolite_count": 650,
+    "reaction_count": 754,
+    "gene_count": 516
+  },
+  {
+    "bigg_id": "iNJ661",
+    "organism": "Mycobacterium tuberculosis H37Rv",
+    "metabolite_count": 825,
+    "reaction_count": 1025,
+    "gene_count": 661
+  },
+  {
+    "bigg_id": "iNRG857_1313",
+    "organism": "Escherichia coli O83:H1 str. NRG 857C",
+    "metabolite_count": 1943,
+    "reaction_count": 2735,
+    "gene_count": 1311
+  },
+  {
+    "bigg_id": "iPC815",
+    "organism": "Yersinia pestis CO92",
+    "metabolite_count": 1552,
+    "reaction_count": 1961,
+    "gene_count": 815
+  },
+  {
+    "bigg_id": "iRC1080",
+    "organism": "Chlamydomonas reinhardtii",
+    "metabolite_count": 1706,
+    "reaction_count": 2191,
+    "gene_count": 1086
+  },
+  {
+    "bigg_id": "iS_1188",
+    "organism": "Shigella flexneri 2a str. 2457T",
+    "metabolite_count": 1914,
+    "reaction_count": 2619,
+    "gene_count": 1188
+  },
+  {
+    "bigg_id": "iSB619",
+    "organism": "Staphylococcus aureus subsp. aureus N315",
+    "metabolite_count": 655,
+    "reaction_count": 743,
+    "gene_count": 619
+  },
+  {
+    "bigg_id": "iSbBS512_1146",
+    "organism": "Shigella boydii CDC 3083-94",
+    "metabolite_count": 1910,
+    "reaction_count": 2591,
+    "gene_count": 1147
+  },
+  {
+    "bigg_id": "iSBO_1134",
+    "organism": "Shigella boydii Sb227",
+    "metabolite_count": 1908,
+    "reaction_count": 2591,
+    "gene_count": 1134
+  },
+  {
+    "bigg_id": "iSDY_1059",
+    "organism": "Shigella dysenteriae Sd197",
+    "metabolite_count": 1888,
+    "reaction_count": 2539,
+    "gene_count": 1059
+  },
+  {
+    "bigg_id": "iSF_1195",
+    "organism": "Shigella flexneri 2a str. 301",
+    "metabolite_count": 1917,
+    "reaction_count": 2630,
+    "gene_count": 1195
+  },
+  {
+    "bigg_id": "iSFV_1184",
+    "organism": "Shigella flexneri 5 str. 8401",
+    "metabolite_count": 1917,
+    "reaction_count": 2621,
+    "gene_count": 1184
+  },
+  {
+    "bigg_id": "iSFxv_1172",
+    "organism": "Shigella flexneri 2002017",
+    "metabolite_count": 1918,
+    "reaction_count": 2638,
+    "gene_count": 1169
+  },
+  {
+    "bigg_id": "iSSON_1240",
+    "organism": "Shigella sonnei Ss046",
+    "metabolite_count": 1936,
+    "reaction_count": 2693,
+    "gene_count": 1240
+  },
+  {
+    "bigg_id": "iSynCJ816",
+    "organism": "Synechocystis sp. PCC 6803",
+    "metabolite_count": 928,
+    "reaction_count": 1044,
+    "gene_count": 816
+  },
+  {
+    "bigg_id": "iUMN146_1321",
+    "organism": "Escherichia coli UM146",
+    "metabolite_count": 1942,
+    "reaction_count": 2735,
+    "gene_count": 1319
+  },
+  {
+    "bigg_id": "iUMNK88_1353",
+    "organism": "Escherichia coli UMNK88",
+    "metabolite_count": 1969,
+    "reaction_count": 2777,
+    "gene_count": 1353
+  },
+  {
+    "bigg_id": "iUTI89_1310",
+    "organism": "Escherichia coli UTI89",
+    "metabolite_count": 1940,
+    "reaction_count": 2725,
+    "gene_count": 1310
+  },
+  {
+    "bigg_id": "iWFL_1372",
+    "organism": "Escherichia coli W",
+    "metabolite_count": 1973,
+    "reaction_count": 2782,
+    "gene_count": 1372
+  },
+  {
+    "bigg_id": "iY75_1357",
+    "organism": "Escherichia coli str. K-12 substr. W3110",
+    "metabolite_count": 1953,
+    "reaction_count": 2759,
+    "gene_count": 1358
+  },
+  {
+    "bigg_id": "iYL1228",
+    "organism": "Klebsiella pneumoniae subsp. pneumoniae MGH 78578",
+    "metabolite_count": 1658,
+    "reaction_count": 2262,
+    "gene_count": 1229
+  },
+  {
+    "bigg_id": "iYO844",
+    "organism": "Bacillus subtilis subsp. subtilis str. 168",
+    "metabolite_count": 990,
+    "reaction_count": 1250,
+    "gene_count": 844
+  },
+  {
+    "bigg_id": "iYS1720",
+    "organism": "Salmonella pan-reactome",
+    "metabolite_count": 2436,
+    "reaction_count": 3357,
+    "gene_count": 1707
+  },
+  {
+    "bigg_id": "iYS854",
+    "organism": "Staphylococcus aureus subsp. aureus USA300_TCH1516",
+    "metabolite_count": 1335,
+    "reaction_count": 1455,
+    "gene_count": 866
+  },
+  {
+    "bigg_id": "iZ_1308",
+    "organism": "Escherichia coli O157:H7 str. EDL933",
+    "metabolite_count": 1923,
+    "reaction_count": 2721,
+    "gene_count": 1308
+  },
+  {
+    "bigg_id": "RECON1",
+    "organism": "Homo sapiens",
+    "metabolite_count": 2766,
+    "reaction_count": 3741,
+    "gene_count": 1905
+  },
+  {
+    "bigg_id": "Recon3D",
+    "organism": "Homo sapiens",
+    "metabolite_count": 5835,
+    "reaction_count": 10600,
+    "gene_count": 2248
+  },
+  {
+    "bigg_id": "STM_v1_0",
+    "organism": "Salmonella enterica subsp. enterica serovar Typhimurium str. LT2",
+    "metabolite_count": 1802,
+    "reaction_count": 2545,
+    "gene_count": 1271
+  }
+]

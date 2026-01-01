@@ -1,0 +1,83 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "metabolicsuite"
+version = "0.1.0"
+description = "Interactive metabolic pathway visualization with multi-omics integration for Jupyter"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [
+    { name = "MetabolicSuite Team" }
+]
+keywords = [
+    "metabolic-modeling",
+    "flux-balance-analysis",
+    "systems-biology",
+    "jupyter",
+    "visualization",
+    "multi-omics",
+    "sbml",
+    "cobrapy"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Framework :: Jupyter",
+    "Framework :: Jupyter :: JupyterLab",
+    "Framework :: Jupyter :: JupyterLab :: 4",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "anywidget>=0.9.0",
+    "traitlets>=5.0.0",
+    "numpy>=1.20.0",
+    "pandas>=1.3.0",
+]
+
+[project.optional-dependencies]
+cobra = ["cobra>=0.26.0"]
+server = [
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "cobra>=0.26.0",
+    "python-multipart>=0.0.6",
+    "pydantic>=2.0.0",
+]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+    "httpx>=0.26.0",
+]
+
+[project.scripts]
+metabolicsuite-server = "metabolicsuite.api:run_server"
+
+[project.urls]
+Homepage = "https://github.com/metabolicsuite/metabolicsuite"
+Documentation = "https://metabolicsuite.readthedocs.io"
+Repository = "https://github.com/metabolicsuite/metabolicsuite"
+
+[tool.hatch.build.targets.wheel]
+packages = ["metabolicsuite"]
+
+[tool.hatch.build.targets.wheel.shared-data]
+"metabolicsuite/static" = "share/jupyter/nbextensions/metabolicsuite"
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I", "W"]
+
+[tool.black]
+line-length = 100

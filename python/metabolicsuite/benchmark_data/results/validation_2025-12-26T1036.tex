@@ -1,0 +1,98 @@
+% Solver Validation Report
+% Generated: 2025-12-26T10:36:57.798Z
+% MetabolicSuite HiGHS vs COBRApy Cross-Validation
+
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{siunitx}
+
+\begin{document}
+
+\section{Numerical Validation}
+
+This supplementary material validates the MetabolicSuite HiGHS WASM solver
+against COBRApy (GLPK) gold standard. Models from BiGG database.
+
+\subsection{Methods}
+\begin{itemize}
+  \item \textbf{Test Set}: 18 metabolic models from BiGG
+  \item \textbf{Reference Solver}: COBRApy with GLPK
+  \item \textbf{Test Solver}: HiGHS WASM (browser-compatible)
+  \item \textbf{Pass Criterion}: $|\Delta obj| < 10^{-6}$
+\end{itemize}
+
+\subsection{Results}
+
+\begin{table}[htbp]
+\centering
+\caption{Solver Validation Summary: HiGHS WASM vs COBRApy (GLPK)}
+\label{tab:solver_validation}
+\begin{tabular}{lrr}
+\toprule
+\textbf{Metric} & \textbf{Value} & \textbf{Pass Criterion} \\
+\midrule
+Total Models Tested & 18 & -- \\
+Passed & 18 & $|\Delta obj| < 10^{-6}$ \\
+Failed & 0 & -- \\
+Pass Rate & 100.0\% & $\geq 99\%$ \\
+\midrule
+Mean $|\Delta obj|$ & 3.59e-8 & -- \\
+Max $|\Delta obj|$ & 6.46e-7 & $< 10^{-6}$ \\
+\midrule
+Mean $||\Delta v||_2$ & 2.61e+6 & -- \\
+Mean HiGHS time (ms) & 24.3 & -- \\
+Mean COBRApy time (ms) & 33.1 & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\centering
+\caption{Detailed Solver Comparison (first 20 models)}
+\label{tab:solver_detailed}
+\begin{tabular}{llrrrrc}
+\toprule
+\textbf{Model} & \textbf{Method} & \textbf{$|\Delta obj|$} & \textbf{$||\Delta v||_2$} & \textbf{t$_{HiGHS}$} & \textbf{t$_{COBRApy}$} & \textbf{Pass} \\
+\midrule
+  e_coli_core & fba & 2.95e-14 & 1.01e-4 & 26.7 & 1.1 & \checkmark \\
+  iIS312 & fba & 2.34e-13 & 7.41e+3 & 17.2 & 7.2 & \checkmark \\
+  iIS312_Epimastigote & fba & 2.84e-14 & 7.28e+3 & 13.0 & 8.7 & \checkmark \\
+  iIT341 & fba & 2.56e-14 & 2.45e+6 & 11.4 & 14.5 & \checkmark \\
+  iAF692 & fba & 1.27e-12 & 3.87e+6 & 22.3 & 13.4 & \checkmark \\
+  iNF517 & fba & 7.37e-14 & 4.69e+3 & 12.0 & 14.1 & \checkmark \\
+  iJB785 & fba & 6.46e-7 & 5.29e+0 & 16.2 & 22.7 & \checkmark \\
+  iNJ661 & fba & 1.53e-11 & 6.28e+6 & 21.5 & 25.5 & \checkmark \\
+  iAM_Pb448 & fba & 1.08e-12 & 7.45e+6 & 26.4 & 30.0 & \checkmark \\
+  iJR904 & fba & 4.65e-13 & 2.24e+6 & 16.9 & 22.2 & \checkmark \\
+  iAM_Pk459 & fba & 2.47e-12 & 7.76e+6 & 22.0 & 34.6 & \checkmark \\
+  iEK1008 & fba & 1.64e-15 & 2.45e+3 & 20.1 & 30.7 & \checkmark \\
+  iYO844 & fba & 9.18e-13 & 3.00e+6 & 21.7 & 36.7 & \checkmark \\
+  iAF987 & fba & 2.42e-10 & 3.87e+6 & 20.7 & 35.4 & \checkmark \\
+  iMM904 & fba & 1.48e-14 & 6.48e+6 & 26.2 & 45.0 & \checkmark \\
+  iAF1260b & fba & 2.15e-11 & 3.61e+6 & 44.7 & 84.8 & \checkmark \\
+  STM_v1_0 & fba & 3.11e-14 & 3.46e+3 & 52.6 & 92.9 & \checkmark \\
+  iSbBS512_1146 & fba & 3.53e-14 & 7.32e+3 & 45.6 & 77.2 & \checkmark \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Conclusion}
+
+HiGHS WASM achieves 100.0\% concordance with COBRApy
+across 18 benchmark models. Mean objective difference of
+3.59e-8 demonstrates numerical equivalence.
+
+\begin{thebibliography}{9}
+\bibitem{king2016bigg}
+King, Z.A., et al. (2016).
+BiGG Models: A platform for integrating, standardizing and sharing genome-scale models.
+\textit{Nucleic Acids Research}, 44(D1), D515-D522.
+
+\bibitem{huangfu2018highs}
+Huangfu, Q. \& Hall, J.A.J. (2018).
+Parallelizing the dual revised simplex method.
+\textit{Mathematical Programming Computation}, 10(1), 119-142.
+\end{thebibliography}
+
+\end{document}
